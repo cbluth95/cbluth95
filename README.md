@@ -2,7 +2,7 @@
 
 <img src="https://github.com/cbluth95.png" width="150" style="border-radius: 50%;" alt="Cody Bluth" />
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Cody Bluth
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Cody Bluth AKA (TheMuffinMan)
 
 ### Full-Stack Software Engineer | AI Enthusiast | Creative Problem Solver
 
