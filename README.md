@@ -139,28 +139,6 @@ Built with C# and WPF, featuring customizable digital rain effects, multiple col
 
 ---
 
-### 📊 [Project Name 2]
-> *Brief tagline describing the project*
-
-Description of what the project does and why it's notable. Mention key technical challenges solved or innovative approaches used.
-
-**Tech:** Your • Tech • Stack
-
-🔗 [Live Demo](#) | [GitHub](#)
-
----
-
-### 🎯 [Project Name 3]
-> *Brief tagline describing the project*
-
-Description of what the project does and why it's notable. Highlight any interesting features or technical achievements.
-
-**Tech:** Your • Tech • Stack
-
-🔗 [Live Demo](#) | [GitHub](#)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
