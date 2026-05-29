@@ -1,14 +1,16 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Cody Bluth (TheMuffinMan)
+# Hi 👋 I'm Cody Bluth (TheMuffinMan)
 
 <div align="center">
 
-### Full-Stack Engineer • AI Enthusiast • Creative Technologist
+# Full-Stack Engineer • AI Enthusiast • Creative Technologist
 
-🌍 Wyoming, USA  •  🧠 Exploring AI/ML  •  🎨 Building things that *feel* good to use
+🌄 Building software from Wyoming
 
-<a href="https://www.github.com/cbluth95" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/cbluth95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+<p>
+  <a href="https://github.com/cbluth95">
+    <img src="https://img.shields.io/github/followers/cbluth95?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+  </a>
+</p>
 
 </div>
 
@@ -16,7 +18,12 @@
 
 ## 📖 Quick Navigation
 
-[About](#-about-me) • [Tech](#-tech-stack) • [Projects](#-featured-projects) • [Stats](#-github-stats) • [Connect](#-lets-connect)
+[About](#-about-me) •
+[Current Projects](#-currently-building) •
+[Tech Stack](#-tech-stack) •
+[Featured Projects](#-featured-projects) •
+[GitHub Stats](#-github-stats) •
+[Connect](#-lets-connect)
 
 ---
 
@@ -24,63 +31,167 @@
 
 I build software that balances **performance, usability, and design**.
 
-My work spans full-stack applications, desktop software, and AI integrations—with a focus on creating tools people actually enjoy using.
+My work spans full-stack web applications, desktop software, mobile experiences, AI integrations, automation systems, and construction technology.
+
+I'm passionate about creating tools that solve real-world problems while remaining enjoyable to use.
 
 ```ts
 const cody = {
   location: "Wyoming, USA",
-  focus: ["AI/ML", "Full-Stack Systems", "UX"],
-  building: "AI-powered and creative applications",
-  openTo: ["collaboration", "open-source", "interesting ideas"],
-  funFact: "I build Matrix-style screensavers 🟢"
+
+  company: "Peak Construction & Renovations",
+
+  focus: [
+    "AI Agents",
+    "Construction Technology",
+    "Mobile Applications",
+    "Full-Stack Development"
+  ],
+
+  currentlyBuilding: [
+    "Peak FSM",
+    "AI-Powered Construction Management",
+    "Local AI Agent Framework",
+    "Nextcloud Integrations",
+    "Field Service Mobile Apps"
+  ],
+
+  interests: [
+    "Artificial Intelligence",
+    "Automation",
+    "Developer Tools",
+    "Creative Software"
+  ],
+
+  funFact: "I build Matrix-style screensavers and AI systems"
 };
 ```
 
-**🤝 I’m especially interested in:**
+---
 
-* AI-powered applications & integrations
-* Scalable full-stack systems (React / Next.js)
-* Developer tools & creative coding projects
+## 🔥 Currently Building
+
+### 🏗️ Peak FSM
+
+A modern field service and construction management platform focused on:
+
+- Estimates & invoicing
+- Project management
+- Mobile workforce tools
+- Customer relationship management
+- AI-assisted workflows
+
+---
+
+### 🤖 AI Agent Framework
+
+A self-improving AI platform featuring:
+
+- Local LLM integration
+- Long-term memory
+- Tool creation and execution
+- Workflow automation
+- Multi-agent collaboration
+
+---
+
+### ☁️ Nextcloud Ecosystem
+
+Integrating project management, file storage, calendars, and collaboration tools into a unified workflow.
+
+---
+
+### 📱 Mobile Workforce Applications
+
+Building mobile-first tools that help contractors and field teams stay productive from anywhere.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Core
+### 💻 Languages
 
-TypeScript • JavaScript • Python • C#
+TypeScript • JavaScript • Python • C# • SQL
 
 ### 🎨 Frontend
 
-React • Next.js • Vue • Tailwind / CSS
+Vue.js • Quasar • React • Next.js • Tailwind CSS
 
 ### ⚙️ Backend
 
-Node.js • Express • .NET • APIs • GraphQL
+Node.js • Express • GraphQL • .NET • REST APIs
 
-### 🤖 AI / Data
+### 🤖 AI / Machine Learning
 
-PyTorch • TensorFlow • OpenAI APIs
+OpenAI APIs • Ollama • PyTorch • TensorFlow • Local LLMs
 
-### ☁️ DevOps
+### 🗄️ Databases
 
-Docker • AWS • Linux • Git
+PostgreSQL • Firebase • SQLite
 
-> *Full stack list available in repos — I keep this focused on what I actually use most.*
+### ☁️ Infrastructure
+
+Docker • Linux • Cloudflare • Nginx • AWS
+
+### 🔧 Tools
+
+Git • GitHub • VS Code • n8n • Nextcloud
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏗️ Peak FSM
+
+A complete field service and construction management platform.
+
+**Features**
+
+- Job management
+- Customer management
+- Estimates & invoicing
+- Scheduling
+- Mobile workforce support
+- AI-assisted workflows
+
+**Tech**
+
+Vue • Quasar • GraphQL • PostgreSQL • Docker
+
+---
+
+### 🤖 Local AI Agent Framework
+
+An AI platform capable of learning new skills, managing tools, and integrating with local infrastructure.
+
+**Features**
+
+- Long-term memory
+- Dynamic tool creation
+- Local LLM support
+- Workflow automation
+- Human approval system
+
+**Tech**
+
+Python • Docker • Ollama • GraphQL
+
+---
+
 ### 🟢 Matrix Screensaver Pro
 
-*A modern Windows screensaver inspired by The Matrix*
+A modern Windows screensaver inspired by The Matrix.
 
-* Smooth, hardware-accelerated rendering
-* Customizable digital rain + themes
-* Built with performance and aesthetics in mind
+**Features**
 
-**Tech:** C# • WPF • DirectX • .NET
+- Hardware accelerated rendering
+- Multiple themes
+- Custom effects
+- High-performance graphics
+
+**Tech**
+
+C# • WPF • DirectX • .NET
 
 ---
 
@@ -88,32 +199,47 @@ Docker • AWS • Linux • Git
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cbluth95&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" height="160" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cbluth95&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbluth95&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" height="160" />
+<img height="170" src="https://streak-stats.demolab.com?user=cbluth95&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbluth95&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" />
 
 </div>
 
 ---
 
+## 🏆 Highlights
+
+- Full-stack engineer with a passion for AI and automation
+- Founder of Peak Construction & Renovations
+- Building AI-powered construction technology
+- Creating local-first AI systems
+- Developing mobile-first workforce solutions
+- Open-source contributor and lifelong builder
+
+---
+
 ## 🌐 Let's Connect
 
-* GitHub: https://github.com/cbluth95
-* LinkedIn: https://www.linkedin.com/in/cody-bluth-1361a4174/
+- GitHub: https://github.com/cbluth95
+- LinkedIn: https://www.linkedin.com/in/cody-bluth-1361a4174/
 
 ---
 
 ## ☕ Support My Work
 
-If you like what I build, feel free to support:
+If you enjoy what I build and want to support future projects:
 
 <a href="https://www.buymeacoffee.com/cbluth95">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" />
 </a>
 
 ---
 
 <div align="center">
+
+### Thanks for stopping by 👋
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
