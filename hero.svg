@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Cody Bluth, aka TheMuffinMan, full-stack engineer and AI systems builder">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="0.55" stop-color="#101b30"/><stop offset="1" stop-color="#071827"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#23d5f5"/><stop offset="0.65" stop-color="#6489ff"/><stop offset="1" stop-color="#ff9b62"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#263d56" stroke-opacity=".3"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="25"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<circle cx="1050" cy="70" r="135" fill="#1b87dd" opacity=".13" filter="url(#glow)"/>
+<circle cx="780" cy="305" r="145" fill="#23d5f5" opacity=".1" filter="url(#glow)"/>
+<path d="M740 38h405M740 74h360M740 110h390M740 146h320M740 182h370M740 218h310M740 254h395M740 290h330" stroke="#3e85ae" stroke-opacity=".19" stroke-width="1"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".7"><path d="M795 105h110l32-32h145"/><path d="M844 230h105l35-35h140"/><circle cx="795" cy="105" r="5" fill="#30d8f7"/><circle cx="1124" cy="195" r="5" fill="#ff9b62"/></g>
+<path d="M60 58h52" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+<text x="60" y="106" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#4fcbf1">SOFTWARE ENGINEER  /  BUILDER</text>
+<text x="56" y="190" font-family="Arial,Helvetica,sans-serif" font-size="71" font-weight="800" fill="#f4f8ff">CODY BLUTH</text>
+<text x="62" y="218" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="2" fill="#58d1f4">AKA THEMuffinMan</text>
+<text x="60" y="250" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="500" fill="#b9ccdf">Full-stack development  ·  AI systems  ·  Automation</text>
+<rect x="60" y="273" width="389" height="40" rx="20" fill="#142b41" stroke="#3a6b8b"/>
+<circle cx="84" cy="293" r="6" fill="#4fe2bd"/>
+<text x="101" y="299" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#e3f5fa">Building practical software in Wyoming</text>
+<rect x="60" y="337" width="1080" height="3" rx="2" fill="url(#line)"/>
+</svg>
